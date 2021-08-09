@@ -21,3 +21,4 @@ A: It appears both have the same compound score of 0.726400
 Q. Which coin had the highest positive score?
 A: Ethereum had the highest positive score of 0.190000
 
+
